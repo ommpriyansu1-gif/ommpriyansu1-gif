@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/github/stars/ommpriyansu1-gif?color=9400D3&style=flat-square&label=STARS" alt="Stars" />
 </div>
 
----
 
-## About Section
+
+About Section
 
 I am a highly motivated professional driven by the determination to turn data into actionable insights and innovative ideas into great web solutions. I possess a strong product engineering mindset, heavily focused on delivering scalable, enterprise-grade software and integrating modern AI/ML capabilities into full-stack development life cycles. A fast learner eager to adapt, innovate, and grow within the tech industry while contributing to highly complex software architectures.
 
@@ -42,7 +42,7 @@ I am a highly motivated professional driven by the determination to turn data in
 
 ---
 
-## Tech Stack Section
+Tech Stack Section
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -58,7 +58,7 @@ I am a highly motivated professional driven by the determination to turn data in
 
 ---
 
-## AI / ML Expertise Section
+AI / ML Expertise Section
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
@@ -69,7 +69,7 @@ I am a highly motivated professional driven by the determination to turn data in
 
 ---
 
-## Featured Projects Section
+Featured Projects Section
 
 <details>
 <summary><b>Ethical Hacking Project: Vulnerability Scanner</b></summary>
@@ -99,7 +99,7 @@ Utilized advanced programming logic across multiple languages to build resilient
 
 ---
 
-## Experience Section
+Experience Section
 
 **Vulnerability Scanning Specialist** | Ethical Hacking Project
 *2024*
@@ -122,7 +122,7 @@ Architected and developed structured desktop and command-line applications empha
 
 ---
 
-## Achievements Section
+Achievements Section
 
 <div align="center">
 
@@ -136,7 +136,7 @@ Architected and developed structured desktop and command-line applications empha
 
 ---
 
-## Certifications Section
+Certifications Section
 
 <div align="center">
 
@@ -199,7 +199,7 @@ Architected and developed structured desktop and command-line applications empha
 
 ---
 
-## Contribution Snake Section
+Contribution Snake Section
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ommpriyansu1-gif/ommpriyansu1-gif/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
@@ -207,7 +207,7 @@ Architected and developed structured desktop and command-line applications empha
 
 ---
 
-## Current Focus Section
+Current Focus Section
 
 ```yaml
 learning: [ "Advanced Cloud Architecture", "Generative AI Integration", "Distributed Systems" ]
