@@ -156,7 +156,7 @@ Architected and developed structured desktop and command-line applications empha
 <img src="https://img.shields.io/badge/Python_Certification-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 <img src="https://img.shields.io/badge/Cybersecurity_Certification-Learn_Tube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Learn Tube" />
 
-</div>
+</div> 
 
 ---
 
